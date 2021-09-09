@@ -1,0 +1,2 @@
+kyro=com.lh.serialize.kyro.KryoSerializer
+protostuff=com.lh.serialize.protostuff.ProtostuffSerializer
